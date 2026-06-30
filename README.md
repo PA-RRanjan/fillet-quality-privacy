@@ -23,12 +23,6 @@ The policy is published via GitHub Pages and is intended for submission to the A
 - No personal information is collected (no accounts, location, analytics, or tracking).
 - Inspection images/results are shared externally **only** if the user actively chooses to do so (e.g., via email or another app).
 
-## Updating the Policy
-
-1. Edit `index.html` directly in this repo (or upload a revised version).
-2. Update the **Effective Date** / **Last Updated** fields in the page header to reflect the change.
-3. Commit the change — GitHub Pages will redeploy automatically, typically within 1–2 minutes.
-4. For any change to data handling practices, route the update through legal review before publishing.
 
 ## Contact
 
